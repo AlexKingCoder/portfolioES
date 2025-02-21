@@ -15,8 +15,8 @@ export function createContact() {
     emailCard.appendChild(emailTitle);
   
     const emailLink = document.createElement("a");
-    emailLink.href = "mailto:alex.gil95gsd@gmail.com";
-    emailLink.textContent = "alex.gil95gsd@gmail.com";
+    emailLink.href = "mailto:agz.articulos@gmail.com";
+    emailLink.textContent = "agz.articulos@gmail.com";
     emailCard.appendChild(emailLink);
   
     contactDiv.appendChild(emailCard);

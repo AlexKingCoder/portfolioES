@@ -26,6 +26,14 @@ export function createSkills() {
         description: "Especialización en React, DND y Hook-form."
       },
       {
+        title: "Chakra UI",
+        description: "Diseño y programación personalizada de UI."
+      },
+      {
+        title: "Comandos de GitHub",
+        description: "Comandos avanzados para desarrollo de proyectos."
+      },
+      {
         title: "Wordpress",
         description: "Experiencia en diseño web con Wordpress."
       },
