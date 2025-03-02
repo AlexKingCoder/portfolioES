@@ -12,7 +12,7 @@ const projects = [
   {
     name: "Multiverse Patrols",
     thumbnail: "/projects/multiversePatrols.png",
-    version: "v1.0 (14/02/2025)",
+    version: "v1.0.1 (01/03/2025)",
     description: "Juego narrativo diseñado con React.",
     link: "https://multiversepatrols.netlify.app",
     code: "https://github.com/AlexKingCoder/multiversepatrols"
