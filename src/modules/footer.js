@@ -9,7 +9,7 @@ export function createFooter() {
     const socialLinks = [
       { href: "https://www.linkedin.com/in/alex-gil-spencer-848732343/", icon: "fab fa-linkedin", id: "linkedin" },
       { href: "https://github.com/AlexKingCoder", icon: "fab fa-github", id: "github" },
-      { href: "https://www.youtube.com/@educandoheroes", icon: "fab fa-youtube", id: "youtube" }
+      { href: "https://www.youtube.com/@alexkingcoder", icon: "fab fa-youtube", id: "youtube" }
     ];
   
     socialLinks.forEach(link => {
