@@ -42,9 +42,17 @@ const projects = [
     code: "https://github.com/AlexKingCoder/audi-spain"
   },
   {
+    name: "King Coder",
+    thumbnail: "/KingCoderLogoSmall.png",
+    version: "En activo",
+    description: "Canal donde documento los avances de mis proyectos.",
+    link: "https://youtube.com/@alexkingcoder",
+    code: "https://www.youtube.com/@alexkingcoder/videos"
+  },
+  {
     name: "Educando Héroes",
     thumbnail: "/projects/logoEducandoHeroes.png",
-    version: "En desarrollo",
+    version: "En activo",
     description: "Canal enfocado a la educación y el desarrollo personal.",
     link: "https://youtube.com/@educandoheroes",
     code: "https://www.youtube.com/@educandoheroes/videos"
