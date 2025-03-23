@@ -9,6 +9,14 @@ projectsTitle.textContent = "Mis Proyectos";
 projectsDiv.appendChild(projectsTitle);
 
 const projects = [
+      {
+    name: "Ocean Database",
+    thumbnail: "/projects/oceanDatabase.png",
+    version: "v1.0.0 (23/03/2025)",
+    description: "Base de datos Postgre diseñada para hoteles.",
+    link: "https://oceanexperiencehotel.netlify.app",
+    code: "https://github.com/AlexKingCoder/oceandb-server"
+  },
   {
     name: "Multiverse Patrols",
     thumbnail: "/projects/multiversePatrols.png",
