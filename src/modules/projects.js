@@ -103,8 +103,12 @@ const projects = [
     thumbnail: "/KingCoderLogoSmall.png",
     version: "En activo",
     description: "Canal donde documento los avances de mis proyectos.",
-    link: "https://youtube.com/@alexkingcoder",
-    code: "https://www.youtube.com/@alexkingcoder/videos"
+    buttons: [
+      {
+        text: "🔎¡Echa un vistazo!",
+        link: "https://youtube.com/@alexkingcoder"
+      }
+    ]
   },
   {
     name: "Educando Héroes",
