@@ -9,14 +9,6 @@ projectsTitle.textContent = "Mis Proyectos";
 projectsDiv.appendChild(projectsTitle);
 
 const projects = [
-      {
-    name: "Ocean Database",
-    thumbnail: "/projects/oceanDatabase.png",
-    version: "v1.0.0 (23/03/2025)",
-    description: "Base de datos Postgre diseñada para hoteles.",
-    link: "https://oceanexperiencehotel.netlify.app",
-    code: "https://github.com/AlexKingCoder/oceandb-server"
-  },
   {
     name: "TreeCrypt",
     thumbnail: "/projects/treecrypt.png",
@@ -126,18 +118,6 @@ const projects = [
       }
     ]
   },
-  {
-    name: "King Coder",
-    thumbnail: "/KingCoderLogoSmall.png",
-    version: "En activo",
-    description: "Canal donde documento los avances de mis proyectos.",
-    buttons: [
-      {
-        text: "🔎¡Echa un vistazo!",
-        link: "https://youtube.com/@alexkingcoder"
-      }
-    ]
-  }
 ];
 
 const projectsList = document.createElement("div");
