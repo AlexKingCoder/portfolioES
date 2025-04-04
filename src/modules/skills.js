@@ -15,11 +15,15 @@ export function createSkills() {
       },
       {
         title: "Desarrollo Backend",
-        description: "Experiencia con Node.js, Express, Multer y MongoDB."
+        description: "Experiencia con Node.js, Express y Multer."
       },
       {
         title: "Bases de Datos",
-        description: "Diseño y optimización de bases de datos no relacionales."
+        description: "Diseño y optimización en MongoDB y Postgre."
+      },
+      {
+        title: "Encriptación",
+        description: "Diseño de métodos de encriptación y desencriptación (Treecrypt)."
       },
       {
         title: "React",
