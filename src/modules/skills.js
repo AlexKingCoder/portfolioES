@@ -23,7 +23,7 @@ export function createSkills() {
       },
       {
         title: "Encriptación",
-        description: "Diseño de métodos de encriptación y desencriptación (Treecrypt)."
+        description: "Diseño de método propio de encriptación (ver proyecto Treecrypt)."
       },
       {
         title: "React",
