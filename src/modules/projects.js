@@ -12,7 +12,7 @@ const projects = [
   {
     name: "TreeCrypt",
     thumbnail: "/projects/treecrypt.png",
-    version: "v1.0.0 (04/04/2025)",
+    version: "v1.0.1 (20/05/2025)",
     description: "Aplicación de encriptado de archivos con método propio.",
     buttons: [
       {
@@ -25,7 +25,7 @@ const projects = [
   {
     name: "Ocean Database",
     thumbnail: "/projects/oceanDatabase.png",
-    version: "v1.0.0 (23/03/2025)",
+    version: "v1.0.2 (24/05/2025)",
     description: "Base de datos Postgre diseñada para hoteles.",
     buttons: [
       {
@@ -41,7 +41,7 @@ const projects = [
   {
     name: "Multiverse Patrols",
     thumbnail: "/projects/multiversePatrols.png",
-    version: "v1.0.1 (01/03/2025)",
+    version: "v1.0.1 (28/05/2025)",
     description: "Juego narrativo diseñado con React.",
     buttons: [
       {
@@ -57,7 +57,7 @@ const projects = [
   {
     name: "Ice Dream",
     thumbnail: "/projects/iceDreamBackend.png",
-    version: "v0.9.1 (25/01/2025)",
+    version: "v0.9.1 (01/05/2025)",
     description: "Backend completo diseñado para la futura aplicación Ice Dream.",
     buttons: [
       {
@@ -69,7 +69,7 @@ const projects = [
   {
     name: "Story Flipper",
     thumbnail: "/projects/storyFlipper.png",
-    version: "v1.1 (19/12/2024)",
+    version: "v1.1 (25/04/2024)",
     description: "Aplicación que genera ideas para escribir historias alucinantes.",
     buttons: [
       {
@@ -85,7 +85,7 @@ const projects = [
   {
     name: "Audi",
     thumbnail: "/projects/audiSpain.png",
-    version: "v1.0 (11/11/2024)",
+    version: "v1.0 (12/05/2025)",
     description: "Réplica de la página web de Audi España.",
     buttons: [
       {
