@@ -5,22 +5,22 @@ export function createDescription() {
     document.body.appendChild(descriptionDiv);
   
     const descriptionTitle = document.createElement("h2");
-    descriptionTitle.textContent = "Sobre mí";
+    descriptionTitle.textContent = "Voy a ahorrarte tiempo";
     descriptionDiv.appendChild(descriptionTitle);
   
     const introParagraph = document.createElement("p");
-    introParagraph.textContent = "Me llamo Alex. Soy desarrollador especializado en Backend. Trabajo en proyectos de iniciativa propia para mejorar mis habilidades cada día.";
+    introParagraph.textContent = "Tienes todos mis proyectos aquí debajo. Échales un vistazo y saca tus propias conclusiones.";
     descriptionDiv.appendChild(introParagraph);
   
     const skillsParagraph = document.createElement("p");
-    skillsParagraph.textContent = "Soy un estudiante voraz. Mi rutina es romper siempre mis límites. La excelencia es el mínimo.";
+    skillsParagraph.textContent = "Si crees que tengo talento que aportar a tu empresa, puedes contactarme en el email abajo del todo.";
     descriptionDiv.appendChild(skillsParagraph);
   
     const philosophyParagraph = document.createElement("p");
-    philosophyParagraph.textContent = "Documento mi trabajo a diario a través de YouTube y Linkedin, para ayudar e inspirar a otros programadores.";
+    philosophyParagraph.textContent = "De lo contrario, puedes pasar al siguiente candidato.";
     descriptionDiv.appendChild(philosophyParagraph);
   
     const closingParagraph = document.createElement("p");
-    closingParagraph.textContent = "Puedes echar un vistazo a mis proyectos y habilidades concretas a continuación. Si deseas conocerme mejor, o quieres proponerme un desafío, puedes contactarme en el email que encontrarás al final.";
+    closingParagraph.textContent = "En cualquier caso, muchas gracias por tu tiempo.";
     descriptionDiv.appendChild(closingParagraph);
   }
